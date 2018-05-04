@@ -1,0 +1,45 @@
+INSERT INTO Products
+VALUES ('1','MONOPOLY: Pokemon Kanto Edition','1','Amazon','Buy, sell and trade with other trainers to collect the most powerful Pokémon team!','72','45.14');
+
+INSERT INTO Products
+VALUES ('2','MONOPOLY: Hasbro Boutique Edition','2','Amazon','Pink gameboard and dice with unique properties to buy such as spas and jewelry stores','3','151.73');
+
+INSERT INTO Products
+VALUES ('3','MONOPOLY: Rick & Morty Edition','3','Amazon','6 collectible metal tokens include Council of ricks Badge, meeseeks box, etc.','100000','12.95');
+
+INSERT INTO Products
+VALUES ('4','MONOPOLY: Adventure Time Edition','4','Amazon','Choose your favourite token from; Princess Bubblegum, Lumpy Space Princess, and more.','7','59.99');
+
+INSERT INTO Products
+VALUES ('5','MONOPOLY: Classic Edition','5','Amazon','Build houses and hotels on your properties and bankrupt your opponents to win it all','2500','14.79');
+
+INSERT INTO Products
+VALUES ('6','MONOPOLY: 80th Anniversary Edition','6','Amazon','commemorates the 80th anniversary of the fast-trading property game','348','18.25');
+
+INSERT INTO Products
+VALUES ('7','MONOPOLY (with Speed Die)','7','Amazon','Includes Speed Die for faster gameplay','43','19.99');
+
+INSERT INTO Products
+VALUES ('8','MONOPOLY: Junior Electronic Banking Edition','8','Amazon','Make payments and track cash with Monopoly game bank cards','13','19.82');
+
+INSERT INTO Products
+VALUES ('9','MONOPOLY: Spongebob Squarepants Edition','9','Amazon','buy and sell 22 hot properties all over Bikini Bottom','56','72.94');
+
+INSERT INTO Products
+VALUES ('10','MONOPOLY: Marvel Comics Collectors Edition','10','Amazon','Invest in Spider-Buggy, Fantasticar, and other superhero vehicles','2','104.95');
+
+INSERT INTO Products
+VALUES ('11','MONOPOLY: Star Wars 40th Anniversary Special Edition','11','Amazon','Collect classic scenes and iconic ships from 1977 movie','98','17.31');
+
+INSERT INTO Products
+VALUES ('12','MONOPOLY: Gamer','12','Amazon','Includes gameboard, 4 Nintendo Character tokens','279','17.97');
+
+INSERT INTO Products
+VALUES ('13','MONOPOLY: Disney Theme Park Edition','13','Amazon','32 Mickeys Toontown houses','7','59.75');
+
+INSERT INTO Products
+VALUES ('14','MONOPOLY: Disney Princess Edition','14','Amazon','Includes gameboard, 4 Disney Princess tokens','8','16.89');
+
+INSERT INTO Products
+VALUES ('15','MONOPOLY Junior: Cars 3 Edition','15','Amazon','Includes gameboard, 4 character tokens','49','11.79');
+

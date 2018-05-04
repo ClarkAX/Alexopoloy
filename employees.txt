@@ -1,0 +1,14 @@
+INSERT INTO Employees
+VALUES ('1','Alexander','Lopez','1','Boss');
+
+INSERT INTO Employees
+VALUES ('2','Mrs.','Lopez','1','Secretary');
+
+INSERT INTO Employees
+VALUES ('3','David','Lopez','1','Games Creator');
+
+INSERT INTO Employees
+VALUES ('4','Emily','Lopez','1','Order Filer');
+
+INSERT INTO Employees
+VALUES ('5','Manuel','Lopez','1','Shipment');

@@ -1,0 +1,10 @@
+INSERT INTO Customer
+VALUES ('1','Julia','Michaels','Fifty Shades Soundtrack','Seattle','PA','09341','2112324285429732','2');
+
+INSERT INTO Customer
+VALUES ('2','Emma','Watson','Harry Potter','Hogwarts','WZ','11301','3124534263217854','2');
+
+INSERT INTO Customer
+VALUES ('3','G','Eazy','New Rapper Street','Hollywood','CA','91511','3124534268717854','2');
+
+

@@ -1,0 +1,11 @@
+INSERT INTO OrderDetails
+VALUES ('00000001','3','2','12.95');
+
+INSERT INTO OrderDetails
+VALUES ('00000002','10','2','104.95');
+
+INSERT INTO OrderDetails
+VALUES ('00000003','2','1','151.73');
+
+INSERT INTO OrderDetails
+VALUES ('00000004','13','1','59.75');
